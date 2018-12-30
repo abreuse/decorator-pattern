@@ -4,6 +4,8 @@ Simple examples of the Decorator patterns.
 - Beverage and condiments
 - Calculator and PercentageCalculator
 
+Un exemple Java est le package `java.io` qui est composé du decorator `FilterInputStream`
+
 **Les plus :**
 - Permet d'ajouter des fonctionnalités à une classe existante
 - Respecte le Open/Closed principle
